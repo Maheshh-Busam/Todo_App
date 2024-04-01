@@ -49,7 +49,7 @@ This is a simple Todo application built using React.js. It allows users to add, 
 ## Usage
 
 1. Add a new task by typing in the input field and **pressing Enter/ pressing Add Button**.
-2. Update a task by clicking on the** Update Button** next to the task.
+2. Update a task by clicking on the **Update Button** next to the task.
 3. Delete a task by clicking on the **Delete Button** next to the task.
 4. Mark a task as completed by clicking on the **Checkbox** left side of the task.
 
