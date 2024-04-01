@@ -2,6 +2,8 @@
 
 This is a simple Todo application built using React.js. It allows users to add, edit, and delete tasks, as well as mark tasks as completed.
 
+![image](https://github.com/Maheshh-Busam/Todo_App/assets/107562051/e6f118ed-3daa-4aa8-bd7a-bbfdc585883c)
+
 ## Features
 
 - Add new tasks
